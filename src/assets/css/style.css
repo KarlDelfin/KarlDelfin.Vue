@@ -166,9 +166,12 @@ a {
 }
 .banner_container div figure img {
   height: 100%;
-  width: 95%;
+  width: 80%;
   border-radius: 50%;
   outline: auto;
+}
+.banner_container div:nth-child(2) {
+  text-align: center;
 }
 
 /* BOTTOM */
